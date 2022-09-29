@@ -14,7 +14,7 @@ namespace ConsoleAppRosangela
             int num2;
 
             Console.WriteLine(" ****** Programa da Rosangela ****** \n\n");
-            Console.WriteLine(" ---  Multiplicação de dois Números --- \n\n");
+            Console.WriteLine(" --- Soma de dois Números --- \n\n");
 
             Console.WriteLine("Informe um número: ");
             num1 = int.Parse(Console.ReadLine());
@@ -22,7 +22,7 @@ namespace ConsoleAppRosangela
             Console.WriteLine("Informe o segundo número: ");
             num2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Resultado: {num1*num2}");
+            Console.WriteLine($"Resultado: {num1+num2}");
 
 
             Console.ReadLine();
