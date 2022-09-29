@@ -1,0 +1,7 @@
+C:\Users\Rosângela\source\repos\ConsoleAppRosangela\ConsoleAppRosangela\bin\Debug\ConsoleAppRosangela.exe.config
+C:\Users\Rosângela\source\repos\ConsoleAppRosangela\ConsoleAppRosangela\bin\Debug\ConsoleAppRosangela.exe
+C:\Users\Rosângela\source\repos\ConsoleAppRosangela\ConsoleAppRosangela\bin\Debug\ConsoleAppRosangela.pdb
+C:\Users\Rosângela\source\repos\ConsoleAppRosangela\ConsoleAppRosangela\obj\Debug\ConsoleAppRosangela.csproj.AssemblyReference.cache
+C:\Users\Rosângela\source\repos\ConsoleAppRosangela\ConsoleAppRosangela\obj\Debug\ConsoleAppRosangela.csproj.CoreCompileInputs.cache
+C:\Users\Rosângela\source\repos\ConsoleAppRosangela\ConsoleAppRosangela\obj\Debug\ConsoleAppRosangela.exe
+C:\Users\Rosângela\source\repos\ConsoleAppRosangela\ConsoleAppRosangela\obj\Debug\ConsoleAppRosangela.pdb
